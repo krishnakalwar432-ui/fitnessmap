@@ -1,0 +1,28 @@
+{
+    "name": "fitsyn",
+    "version": "1.0.0",
+    "description": "FitSyn - AI-Powered Fitness Tracker. Log running, cycling, hiking, swimming, and yoga workouts on an interactive map.",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx live-server --port=3000",
+        "dev": "npx live-server --port=3000"
+    },
+    "keywords": [
+        "fitness",
+        "tracker",
+        "workout",
+        "running",
+        "cycling",
+        "hiking",
+        "map",
+        "geolocation",
+        "ai",
+        "fitsyn"
+    ],
+    "author": "FitSyn Team",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/krishnakalwar432-ui/fitnessmap.git"
+    }
+}
